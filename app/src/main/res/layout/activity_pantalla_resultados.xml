@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDEBD0"
+    tools:context=".PantallaResultados">
+
+    <TextView
+        android:id="@+id/txtresultado"
+        android:layout_width="174dp"
+        android:layout_height="57dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="16dp"
+        android:background="#F8C471"
+        android:text="@string/resultado"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblresultado"
+        android:layout_width="174dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="16dp"
+        android:text=""
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtresultado" />
+
+
+</LinearLayout>

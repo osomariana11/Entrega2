@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CALCULADORA</string>
+    <string name="Calculadora">Calculadora</string>
+
+    //calculo seno
+    <string name="calculadora_seno">CALCULADORA DE SENO</string>
+    <string name="seleccionseno">Seleccione:</string>
+    <string name="angulo_seno">Ingrese el ángulo</string>
+    <string name="grados_seno">Grados</string>
+    <string name="radianes_seno">Radianes</string>
+    <string name="btn_calcularSeno">CALCULAR SENO</string>
+
+    //calculo coseno
+    <string name="calculadora_coseno">CALCULADORA DE COSENO</string>
+    <string name="seleccioncoseno">Seleccione:</string>
+    <string name="angulo_de_coseno">Ingrese el ángulo</string>
+    <string name="grados_coseno">Grados</string>
+    <string name="radianes_coseno">Radianes</string>
+    <string name="btn_calcularCoseno">CALCULAR COSENO</string>
+
+    //calculo raiz
+    <string name="calculadora_raiz">CALCULADORA DE RAIZ</string>
+    <string name="numero_raiz">Ingrese un número</string>
+    <string name="btn_calcularRaiz">CALCULAR RAIZ</string>
+
+
+
+    //resultado
+    <string name="resultado">Resultado:</string>
+
+
+</resources>
